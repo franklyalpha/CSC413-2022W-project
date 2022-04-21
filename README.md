@@ -10,4 +10,4 @@ and can be found in the code below. Simply comment/uncomment the lines of code t
 ![image](https://user-images.githubusercontent.com/93051054/164500957-e5af98e1-4036-472d-bfc1-9398f2952a0b.png)
 
 Among many failed training for vision transformer, our group did succeed in finding a well-trained vision transformer model which also achieved an accuracy of around 85%. This
-model's state distionary is stored in "../input/model-states/VIT_model_state.pt" of Kaggle Input section. 
+model's state distionary is stored in "../input/model-states/VIT_model_state.pt" of Kaggle Input section. Feel free to play with it and visualize the results using implemented code. 
